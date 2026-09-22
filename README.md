@@ -1,10 +1,7 @@
 ## Why Hello I'm Jess 👋
 
-A Former math teacher turned software engineer. I get excited to find the intersections of Mathematics and programming, and enjoy creating visual depections of mathematics
-
-- 🧮 **Background:** Math teacher who pivoted into software engineering
-- 💼 **Experience:** Web development at JD Power
-- 🎓 **Recently:** Currently in batch at the [Recurse Center](https://www.recurse.com/)
+Former math teacher turned software engineer. I get excited to find the intersections of mathematics and programming, and enjoy creating visual depections of mathematics
+- 🎓 Currently in batch at the [Recurse Center](https://www.recurse.com/)
 
 ---
 
