@@ -1,4 +1,4 @@
-## Why Hello I'm Jess 👋
+## Why Hello My Name is Jess 👋
 
 Former math teacher turned software engineer. I get excited to find the intersections of mathematics and programming, and enjoy creating visual depections of mathematics
 - 🎓 Currently in batch at the [Recurse Center](https://www.recurse.com/)
